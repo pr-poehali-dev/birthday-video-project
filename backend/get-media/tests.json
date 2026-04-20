@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "name": "GET all media",
+      "method": "GET",
+      "path": "/",
+      "expectedStatus": 200
+    }
+  ]
+}
